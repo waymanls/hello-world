@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 @app.get("/")
 def hello():
-    return f"What an AMAZING, AWESOME, BUCOLIC, beautiful day {x} is!\n"
+    return f"What an beautiful spring day {x} is!\n"
 
 
 if __name__ == "__main__":
