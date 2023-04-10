@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 @app.get("/")
 def hello():
-    return f"Today is {x}!!!!!!\n"
+    return f"Todayyyyyyyyyyyyy is {x}!!!!!!\n"
 
 
 if __name__ == "__main__":
